@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on full-stack tecnologies and cryptography projects on rust.
+- 🌱 I’m currently learning ZK-SNARKS, GPU/CUDA, and advanced cryptography.
+- 👯 I’m looking to collaborate on rust projects.
